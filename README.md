@@ -177,6 +177,9 @@
 2. Hugging Face Transformers：一站式 NLP 工具库，含 BERT、GPT 等模型实现及教程，https://github.com/huggingface/transformers
 3. 《大语言模型》经典图书，由作者赵鑫，李军毅，周昆，唐天一，文继荣 等作者编写，全面介绍了大型语言模型的技术背景、发展过程、关键技术、资源、预训练方法、微调与对齐技术、使用方法、评测以及应用等多个方面。https://llmbook-zh.github.io/
 
+#### 3.1.3其他大模型学习资源
+https://docs.google.com/document/d/1TWgjU9hV0XPo2gsXWexoULUe6rW_u7dbtkAzxbyKr_g/edit?usp=sharing
+
 ### 3.2 实验室相关成果
 
 #### 3.2.1传统机器学习与深度学习
