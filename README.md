@@ -212,11 +212,12 @@ https://docs.google.com/document/d/1TWgjU9hV0XPo2gsXWexoULUe6rW_u7dbtkAzxbyKr_g/
 
 #### 4.2.1 时序预测建模
 
-1. Lin, Shengsheng and Lin, Weiwei* and Wu, Wentai and Chen, Haojun and Yang, Junjie. SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters. 2024 International Conference on Machine Learning. (ICML 2024 Oral)
-2. Lin, Shengsheng and Lin, Weiwei* and Hu, Xinyi and Wu, Wentai and Mo, Ruichao and Zhong, Haocheng. CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns. 2024 Advances in Neural Information Processing Systems. (NeurIPS 2024 Spotlight)
-3. Lin, Shengsheng and Chen, Haojun and Wu, Haijie and Qiu, Chunyun and Lin, Weiwei*. Temporal Query Network for Efficient Multivariate Time Series Forecasting. 2025 International Conference on Machine Learning. (ICML 2025)
-4. Lin, Shengsheng and Lin, Weiwei* and Wu, Wentai and Wang, Songbo and Wang, Yongxiang. Petformer: Long-term time series forecasting via placeholder-enhanced transformer. IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 2025.
-5. Lin, Shengsheng and Lin, Weiwei* and Wu, Wentai and Zhao, Feiyu and Mo, Ruichao and Zhang, Haotong. Segrnn: Segment recurrent neural network for long-term time series forecasting. arXiv preprint arXiv:2308.11200, 2023 (Under Review).
+1. Lin, Shengsheng and Lin, Weiwei* and Wu, Wentai and Chen, Haojun and Chen, CL Philip. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
+2. Lin, Shengsheng and Lin, Weiwei* and Wu, Wentai and Chen, Haojun and Yang, Junjie. SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters. 2024 International Conference on Machine Learning. (ICML 2024 Oral)
+3. Lin, Shengsheng and Lin, Weiwei* and Hu, Xinyi and Wu, Wentai and Mo, Ruichao and Zhong, Haocheng. CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns. 2024 Advances in Neural Information Processing Systems. (NeurIPS 2024 Spotlight)
+4. Lin, Shengsheng and Chen, Haojun and Wu, Haijie and Qiu, Chunyun and Lin, Weiwei*. Temporal Query Network for Efficient Multivariate Time Series Forecasting. 2025 International Conference on Machine Learning. (ICML 2025)
+5. Lin, Shengsheng and Lin, Weiwei* and Wu, Wentai and Wang, Songbo and Wang, Yongxiang. Petformer: Long-term time series forecasting via placeholder-enhanced transformer. IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 2025.
+6. Lin, Shengsheng and Lin, Weiwei* and Wu, Wentai and Zhao, Feiyu and Mo, Ruichao and Zhang, Haotong. Segrnn: Segment recurrent neural network for long-term time series forecasting. arXiv preprint arXiv:2308.11200, 2023 (Under Review).
 
 #### 4.2.2 基于时序预测的异常检测
 
@@ -235,7 +236,7 @@ https://docs.google.com/document/d/1TWgjU9hV0XPo2gsXWexoULUe6rW_u7dbtkAzxbyKr_g/
 
 #### 4.2.5 相关专利（来源网址：http://search.cnipr.com/pages!tableSearch.action）
 
-1. 申请发明专利（CN202411347361.3）. 一种增强时间序列预测的残差周期预测方法. 2024.09. 林伟伟, 林升升
+1. 授权发明专利（CN119294446B）. 增强时间序列预测的残差周期预测方法、系统、设备及介质. 2025.08. 林伟伟, 林升升
 2. 申请发明专利（202311787568.8）. 基于双轴级联网络的时序预测方法及装置. 2023.12. 林伟伟, 林升升
 3. 申请发明专利（CN202310083083.4）. 一种动态压缩时序数据的方法及系统. 2023.02. 林伟伟, 林升升
 
